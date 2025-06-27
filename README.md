@@ -1,2 +1,2 @@
 # SAS_data_manipulation
-Select assignments from BIOS 669: Working with Data in Public Health
+Select assignments from Working with Data in Public Health
